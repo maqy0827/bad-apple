@@ -1,0 +1,45 @@
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.csprojAssemblyReference.cache
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.Form1.resources
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.Properties.Resources.resources
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.csproj.GenerateResource.cache
+F:\干过的有趣的\c#小程序\winformtest\bin\Debug\winformtest.exe.config
+F:\干过的有趣的\c#小程序\winformtest\bin\Debug\winformtest.exe
+F:\干过的有趣的\c#小程序\winformtest\bin\Debug\winformtest.pdb
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.exe
+F:\干过的有趣的\c#小程序\winformtest\obj\Debug\winformtest.pdb
+F:\小项目\Bad_apple!!\winformtest\bin\Debug\winformtest.exe.config
+F:\小项目\Bad_apple!!\winformtest\bin\Debug\winformtest.exe
+F:\小项目\Bad_apple!!\winformtest\bin\Debug\winformtest.pdb
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.csprojAssemblyReference.cache
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.Form1.resources
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.Properties.Resources.resources
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.csproj.GenerateResource.cache
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.exe
+F:\小项目\Bad_apple!!\winformtest\obj\Debug\winformtest.pdb
+F:\干过的有趣的\oled放bad apple\上位机\bin\Debug\winformtest.exe.config
+F:\干过的有趣的\oled放bad apple\上位机\bin\Debug\winformtest.exe
+F:\干过的有趣的\oled放bad apple\上位机\bin\Debug\winformtest.pdb
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.csprojAssemblyReference.cache
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.Form1.resources
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.Properties.Resources.resources
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.csproj.GenerateResource.cache
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.exe
+F:\干过的有趣的\oled放bad apple\上位机\obj\Debug\winformtest.pdb
+F:\小项目\Bad_apple!!\upper computer\bin\Debug\winformtest.exe.config
+F:\小项目\Bad_apple!!\upper computer\bin\Debug\winformtest.exe
+F:\小项目\Bad_apple!!\upper computer\bin\Debug\winformtest.pdb
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.csprojAssemblyReference.cache
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.Form1.resources
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.Properties.Resources.resources
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.csproj.GenerateResource.cache
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.exe
+F:\小项目\Bad_apple!!\upper computer\obj\Debug\winformtest.pdb
+F:\project\Bad_apple!!\upper computer\bin\Debug\winformtest.exe.config
+F:\project\Bad_apple!!\upper computer\bin\Debug\winformtest.exe
+F:\project\Bad_apple!!\upper computer\bin\Debug\winformtest.pdb
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.csprojAssemblyReference.cache
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.Form1.resources
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.Properties.Resources.resources
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.csproj.GenerateResource.cache
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.exe
+F:\project\Bad_apple!!\upper computer\obj\Debug\winformtest.pdb
