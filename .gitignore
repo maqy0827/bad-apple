@@ -1,7 +1,2 @@
-/data
-/picture
-/upper computer/bin/Debug/data
-/upper computer/bin/Debug/picture
-/project/Project/MDK/Listings
-/project/Project/MDK/Objects
-/project/Project/MDK/example.uvguix.github
+/data-file/*
+!/data-file/*.zip

@@ -1,0 +1,4 @@
+!/signal_chip/MDK-ARM/signal_chip.uvoptx
+!/signal_chip/MDK-ARM/signal_chip.uvprojx
+!/signal_chip/MDK-ARM/startup_stm32f427xx.s
+/signal_chip/MDK-ARM/*
