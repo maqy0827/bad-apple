@@ -102,7 +102,7 @@ namespace winformtest
             //pictureshow.Image = bad_apple.picture;
             try
             {
-                BinaryReader picture = new BinaryReader(File.Open(@"..\..\..\..\data-file\84x64data\" + bad_apple.image_data_string + ".txt", FileMode.Open));
+                BinaryReader picture = new BinaryReader(File.Open(@"..\data-file\84x64data\" + bad_apple.image_data_string + ".txt", FileMode.Open));
                 picture.Read(bad_apple.data, 1, 672);//读取数据
                 picture.Dispose();
             }
@@ -245,7 +245,7 @@ namespace winformtest
                 //更新图片，更新其他数据
                 try
                 {
-                    Image a = Image.FromFile(@"..\..\..\..\data-file\picture\" + _image_number.ToString() + ".jpg", true);
+                    Image a = Image.FromFile(@"..\data-file\picture\" + _image_number.ToString() + ".jpg", true);
                     if (picture != null)
                     {
                         picture.Dispose();
