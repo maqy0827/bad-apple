@@ -9,7 +9,7 @@
 |文件夹名|主控|屏幕|数据传输方式|状态|
 |-|-|-|-|-|
 |project1|stm32f103ve|12864 OLED|上位机串口|无已知bug|
-|project2|stm32f103c8|示波器|MATLAB串口|制作中|
+|project2|stm32f427VI|示波器|MATLAB串口|制作中|
 
 ## 版本更新内容
 |版本|更新内容|
